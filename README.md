@@ -2,7 +2,7 @@
 
 A simple web application that converts text to Morse code.
 
-🌐 **Live Demo:** [ [https://your-app-name.onrender.com](https://your-app-name.onrender.com)](https://morse-code-translator-uoti.onrender.com/)
+🌐 **Live Demo:** (https://morse-code-translator-uoti.onrender.com/)
 
 ## Features
 
